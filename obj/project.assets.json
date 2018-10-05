@@ -26,6 +26,16 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Ara3D.CSharpOverflow/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Ara3D.CSharpOverflow.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ara3D.CSharpOverflow.dll": {}
+        }
+      },
       "Ara3D.LinqArray/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -47,16 +57,6 @@
         },
         "runtime": {
           "bin/placeholder/Ara3D.Math3D.dll": {}
-        }
-      },
-      "Ara3D.Utils/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Ara3D.Utils.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Ara3D.Utils.dll": {}
         }
       }
     }
@@ -202,6 +202,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Ara3D.CSharpOverflow/1.0.0": {
+      "type": "project",
+      "path": "../CSharpOverflow/Ara3D.CSharpOverflow.csproj",
+      "msbuildProject": "../CSharpOverflow/Ara3D.CSharpOverflow.csproj"
+    },
     "Ara3D.LinqArray/1.0.0": {
       "type": "project",
       "path": "../LinqArray/Ara3D.LinqArray.csproj",
@@ -211,18 +216,13 @@
       "type": "project",
       "path": "../Math3D/Ara3D.Math3D.csproj",
       "msbuildProject": "../Math3D/Ara3D.Math3D.csproj"
-    },
-    "Ara3D.Utils/1.0.0": {
-      "type": "project",
-      "path": "../ara3d/Ara3D.Utils/Ara3D.Utils.csproj",
-      "msbuildProject": "../ara3d/Ara3D.Utils/Ara3D.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Ara3D.CSharpOverflow >= 1.0.0",
       "Ara3D.LinqArray >= 1.0.0",
       "Ara3D.Math3D >= 1.0.0",
-      "Ara3D.Utils >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -256,8 +256,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\dev\\repos\\ara3d\\Ara3D.Utils\\Ara3D.Utils.csproj": {
-              "projectPath": "C:\\dev\\repos\\ara3d\\Ara3D.Utils\\Ara3D.Utils.csproj"
+            "C:\\dev\\repos\\CSharpOverflow\\Ara3D.CSharpOverflow.csproj": {
+              "projectPath": "C:\\dev\\repos\\CSharpOverflow\\Ara3D.CSharpOverflow.csproj"
             },
             "C:\\dev\\repos\\LinqArray\\Ara3D.LinqArray.csproj": {
               "projectPath": "C:\\dev\\repos\\LinqArray\\Ara3D.LinqArray.csproj"

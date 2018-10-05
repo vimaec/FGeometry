@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ara3d\Ara3D.Utils\Ara3D.Utils.csproj" />
+    <ProjectReference Include="..\CSharpOverflow\Ara3D.CSharpOverflow.csproj" />
     <ProjectReference Include="..\LinqArray\Ara3D.LinqArray.csproj" />
     <ProjectReference Include="..\Math3D\Ara3D.Math3D.csproj" />
   </ItemGroup>
