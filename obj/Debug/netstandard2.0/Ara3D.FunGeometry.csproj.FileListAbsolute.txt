@@ -1,0 +1,16 @@
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.FunGeometry.deps.json
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.FunGeometry.dll
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.FunGeometry.pdb
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.LinqArray.dll
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.Math.dll
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.Utils.dll
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.Utils.pdb
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.LinqArray.pdb
+C:\dev\repos\FunGeometry\bin\Debug\netstandard2.0\Ara3D.Math.pdb
+C:\dev\repos\FunGeometry\obj\Debug\netstandard2.0\Ara3D.FunGeometry.csprojAssemblyReference.cache
+C:\dev\repos\FunGeometry\obj\Debug\netstandard2.0\Ara3D.FunGeometry.csproj.CoreCompileInputs.cache
+C:\dev\repos\FunGeometry\obj\Debug\netstandard2.0\Ara3D.FunGeometry.AssemblyInfoInputs.cache
+C:\dev\repos\FunGeometry\obj\Debug\netstandard2.0\Ara3D.FunGeometry.AssemblyInfo.cs
+C:\dev\repos\FunGeometry\obj\Debug\netstandard2.0\Ara3D.FunGeometry.csproj.CopyComplete
+C:\dev\repos\FunGeometry\obj\Debug\netstandard2.0\Ara3D.FunGeometry.dll
+C:\dev\repos\FunGeometry\obj\Debug\netstandard2.0\Ara3D.FunGeometry.pdb
