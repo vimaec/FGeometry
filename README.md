@@ -54,7 +54,7 @@ The FGeometry library targets [.NET Standard 2.0](https://docs.microsoft.com/en-
 * Universal Windows Platform 10.0.16299
 
 ## Dependencies
-
+g
 FGeometry is built on top of:
 
 * [Ara3D.LinqArray](https://github.com/ara3d/LinqArray) - LINQ for Arrays
